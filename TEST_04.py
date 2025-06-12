@@ -1,1 +1,1 @@
-print("to zostało zmienione, niech to będzie nasz test_04")
+print("To znów zostało zmienione niech żyje król 004")
