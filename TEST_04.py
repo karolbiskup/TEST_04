@@ -1,1 +1,1 @@
-print("To jest TEST 04")
+print("to zostało zmienione, niech to będzie nasz test_04")
