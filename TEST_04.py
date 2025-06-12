@@ -1,1 +1,1 @@
-print("To znów zostało zmienione niech żyje król 004")
+print("TESTUJĘ CAŁY CZAS, TERAZ GDY BRANCH TO MASTER")
